@@ -1,0 +1,113 @@
+for(let a=0;a<5;a++)
+{
+break;
+    console.log("manish kumar");
+}
+undefined
+const test=()=>{
+    return "manish kumar";
+}
+undefined
+const test=()=>{
+    return "manish kumar";
+}
+VM145:1 Uncaught SyntaxError: Identifier 'test' has already been declared
+const test=()=>{
+    return "manish kumar";
+}
+console.log(typeof test);
+VM209:1 Uncaught SyntaxError: Identifier 'test' has already been declared
+const test1=()=>{
+    return "manish kumar";
+}
+console.log(typeof test);
+VM215:4 function
+undefined
+const test2=()=>{
+    return "manish kumar";
+console.log(typeof test);
+}
+console.log(typeof test);
+VM220:5 function
+undefined
+const test2=()=>{
+    return "manish kumar";
+console.log(typeof test);
+}
+console.log(typeof test);
+VM224:1 Uncaught SyntaxError: Identifier 'test2' has already been declared
+let dem=(a1,b1)=>{
+return a1,b1;
+}
+console.log(dem(10,20));
+VM332:4 20
+undefined
+let dem=(a1,b1)=>{
+return [a1,b1];
+}
+console.log(dem(10,20));
+VM341:4 (2) [10, 20]0: 101: 20length: 2__proto__: Array(0)
+undefined
+let dem=(a1,b1)=>{
+return {a1,b1};
+}
+console.log(dem(10,20));
+VM344:4 {a1: 10, b1: 20}
+undefined
+let testt={id:101,name:"manish",salary:129999};
+undefined
+delete testt;
+false
+delete testt.id;
+true
+testt;
+{name: "manish", salary: 129999}
+let mytest=10;
+if(true)
+{
+    let a=20;
+    let b=21;
+}
+console.log(mytest,a,b);
+VM559:7 Uncaught ReferenceError: a is not defined
+    at <anonymous>:7:20
+(anonymous) @ VM559:7
+let mytest=10;
+if(true)
+{
+    var a=20;
+    let b=21;
+}
+console.log(mytest,a,b);
+VM567:7 Uncaught ReferenceError: b is not defined
+    at <anonymous>:7:22
+(anonymous) @ VM567:7
+console.log(console.log());
+VM617:1 undefined
+undefined
+var ar=['1','b',1,2,3,4,['a'],10];
+undefined
+ar;
+(8) ["1", "b", 1, 2, 3, 4, Array(1), 10]
+var c=[...ar];
+undefined
+c;
+(8) ["1", "b", 1, 2, 3, 4, Array(1), 10]
+var res=(ele=>isNaN(ele));
+undefined
+res;
+ele=>isNaN(ele)
+var e=c.map(...c);
+VM765:1 Uncaught TypeError: 1 is not a function
+    at Array.map (<anonymous>)
+    at <anonymous>:1:9
+(anonymous) @ VM765:1
+var e=c.map();
+VM774:1 Uncaught TypeError: undefined is not a function
+    at Array.map (<anonymous>)
+    at <anonymous>:1:9
+(anonymous) @ VM774:1
+var e=c.map(res);
+undefined
+e;
+(8) [false, true, false, false, false, false, true, false]
