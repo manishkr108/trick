@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkr108&theme=merko&show_icons=true&locale=en&layout=compact" alt="manishkr108" /></p>
 <p><img align"left" src"https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=radical" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=manishkr108&show_icons=true&theme=dark"
