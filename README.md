@@ -36,8 +36,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=manishkr108&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-
-  ![Manish s GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkr108&theme=dark&show_icons=true)
 </picture>
 
 ## Available Themes
