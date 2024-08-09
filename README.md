@@ -49,4 +49,4 @@
 
 
 
-<td align="center"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"><img src="https://camo.githubusercontent.com/" alt="tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=manishkr108&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=tokyonight" style="max-width: 100%;"></a></td>
+<td align="center">[tokyonight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight </td>
