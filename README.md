@@ -44,4 +44,4 @@
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkr108&theme=dark&show_icons=true)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manishkr108&show_icons=true&theme=radical)
+![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishkr108&show_icons=true&theme=radical)
