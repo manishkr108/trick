@@ -50,3 +50,5 @@
 
 ![Manish's Github stats] ([tokyonight_repo] (https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
 <td align="center">[tokyonight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight </td>
+
+<img src="https://camo.githubusercontent.com/e10d30a76c3b92a1e7d32df6a3bb5623806c5fddf1bb6433dcdbb9048b4b255b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d746f6b796f6e69676874" alt="tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&amp;repo=github-readme-stats&amp;cache_seconds=86400&amp;theme=tokyonight" style="max-width: 100%;">
